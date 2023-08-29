@@ -1,4 +1,4 @@
-# Public Static Void Main (String[] args) {}
+# Public Static Void Main (String[] args){}
 def main():
     # Init a name and his list of books
     Jordan_Peterson = Author('Jordan B Peterson')
