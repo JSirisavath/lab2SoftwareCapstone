@@ -1,6 +1,7 @@
 # Public Static Void Main (String[] args){}
 def main():
     # Init a name and his list of books
+
     Jordan_Peterson = Author('Jordan B Peterson')
 
     Jordan_Peterson.publish('Maps of Meaning')

@@ -36,5 +36,6 @@ def main():
     print(Bill)
 
 
+# Calling main here:
 if __name__ == '__main__':
     main()
